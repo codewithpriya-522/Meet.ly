@@ -37,8 +37,8 @@ const Hero = () => {
      <div className='w-16 h-16 rounded-lg bg-[#ff8100] flex flex-col items-center pt-2'>
 <GiLovers class="w-10 h-10 text-white dark:text-white mb-3"/>
 </div>
-        <h5 class="mb-1 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white  pt-6 ">M<span className='text-[#ff8100] '>ee</span>tings</h5>
-    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400"> Lorem Ipsum is not simply random text.
+        <h5 class="mb-1 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white  pt-6 ">Da<span className='text-[#ff8100] '>tes</span></h5>
+    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400"> Find Your Compatible Dates.
     </p>
 </div>
 
@@ -47,8 +47,8 @@ const Hero = () => {
      <div className='w-16 h-16 rounded-lg bg-[#ed0f34] flex flex-col items-center pt-2'>
 <MdVideoChat class="w-10 h-10 text-white dark:text-white mb-3"/>
 </div>
-        <h5 class="mb-1 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white  pt-6 ">Video <span className='text-[#ed0f34] '>Call</span></h5>
-    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400"> Lorem Ipsum is not simply random text.
+        <h5 class="mb-1 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white  pt-6 ">Face <span className='text-[#ed0f34] '>Time</span></h5>
+    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400"> Have one-one Conversation.
     </p>
 </div>
 
@@ -57,7 +57,7 @@ const Hero = () => {
 <AiFillWechat class="w-10 h-10 text-white dark:text-white mb-3"/>
 </div>
         <h5 class="mb-1 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white  pt-6 ">Ch<span className='text-[#ffc536] '>at</span></h5>
-    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400"> Lorem Ipsum is not simply random text.
+    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400"> Make your first move with chat.
     </p>
 </div>
 
